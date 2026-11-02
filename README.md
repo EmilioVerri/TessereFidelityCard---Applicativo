@@ -1,4 +1,4 @@
-# Fidelity: carte fedeltà a timbri con QR, Google Wallet e Apple Wallet
+# Fidelity: carte fedeltà a timbri con QR, Google Wallet e Apple Wallet realizzato da Emilio Verri
 
 Va bene per qualsiasi attività: barbiere, bar, estetista, pizzeria, autolavaggio, palestra… Ogni attività sceglie icona, premio e cosa vale un timbro (taglio, caffè, visita…).
 
